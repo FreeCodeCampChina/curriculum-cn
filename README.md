@@ -79,7 +79,9 @@ getChallenges()
 },
 ```
 
-## 翻译流程
+## 翻译指南
+
+### 工作流程
 
  1. 在本项目导航栏【Issue】中选择 [**Translation request**](https://github.com/FreeCodeCampChina/curriculum/issues/new?template=translation-request.md) 模板，并填写你想要翻译的章节（以独立 JSON 文件为最小单位）。
 
@@ -87,5 +89,18 @@ getChallenges()
  
  3. 翻译完成后请提交 Pull request，并选择 [@S1ngS1ng](https://github.com/S1ngS1ng) 与 [@wudifeixue](https://github.com/wudifeixue) 两位同学进行评审。
 
-**【注意】**翻译文件不要在源文件上改动，请创建新文件并以 `-cn` 作为文件名后缀。
+**【注意】** 翻译文件不要在源文件上改动，请创建新文件并以 `-cn` 作为文件名后缀。
+
+### 行文规范
+
+ 1. 最高原则：信、达、雅（技术专业内容要用语规范，网络用语不要出现）
+ 
+ 2. 专用单词：拼写正确（参考对应技术的官网、维基百科词条）、注意大小写
+ 
+ 3. 标点符号
+  - 中英文各自选择对应的标点符号，中英文混合句视同中文语句（如括号内中英文混用，应用中文括号）
+  - 中文标点、文字间无需空格
+  - 英文单标点后空一格，成对标点左标左空格、右标右空格
+
+ 4. 中英文间须空格隔开（参考[盘古](https://github.com/vinta/pangu.js)）
 
