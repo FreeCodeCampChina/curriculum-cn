@@ -79,16 +79,13 @@ getChallenges()
 },
 ```
 
-## Contributing
+## 翻译流程：
 
-1. 🍴 Fork this repo
-2. 👀️ Follow the contributing guidelines outlined in [Contributing Guidelines](docs/CONTRIBUTING.md).
-3. 🔧 Make some awesome changes!
-4. 👉 [Make a pull request](https://github.com/freeCodeCamp/learn/compare)
-5. 🎉 Get your pull request approved - success!
+1. 从 “issue” 中选择 “**Translation request**” 模板，并填写你想要翻译的章节（以独立 JSON 文件为最小单位），然后提交。
 
-## License
+2. 用该 “issue” 来跟踪自己的翻译进度。翻译完成后请提交 PR，并选择 **“S1ngS1ng”** 与 **“wudifeixue”** 两位童鞋进行评审。
 
-Copyright (c) 2018 freeCodeCamp.
+   ​
 
-The curricular content in this repo is licensed under the [CC-BY-SA-4.0](LICENSE.md)
+   **注意：**翻译文件不要在源文件上改动，请创建新的翻译文件并以 **“-cn”** 作为文件名后缀结尾。
+
