@@ -79,13 +79,13 @@ getChallenges()
 },
 ```
 
-## 翻译流程：
+## 翻译流程
 
-1. 从 “issue” 中选择 “**Translation request**” 模板，并填写你想要翻译的章节（以独立 JSON 文件为最小单位），然后提交。
+ 1. 在本项目导航栏【Issue】中选择 [**Translation request**](https://github.com/FreeCodeCampChina/curriculum/issues/new?template=translation-request.md) 模板，并填写你想要翻译的章节（以独立 JSON 文件为最小单位）。
 
-2. 用该 “issue” 来跟踪自己的翻译进度。翻译完成后请提交 PR，并选择 **“S1ngS1ng”** 与 **“wudifeixue”** 两位童鞋进行评审。
+ 2. 若你想翻译多节课，请用 [GFM 的 Task lists 语法](https://guides.github.com/features/mastering-markdown/)列出这些课程，并在翻译完每节课后在该条目前的复选框打勾，以此来跟踪自己的翻译进度。
+ 
+ 3. 翻译完成后请提交 Pull request，并选择 [@S1ngS1ng](https://github.com/S1ngS1ng) 与 [@wudifeixue](https://github.com/wudifeixue) 两位同学进行评审。
 
-   ​
-
-   **注意：**翻译文件不要在源文件上改动，请创建新的翻译文件并以 **“-cn”** 作为文件名后缀结尾。
+**【注意】**翻译文件不要在源文件上改动，请创建新文件并以 `-cn` 作为文件名后缀。
 
