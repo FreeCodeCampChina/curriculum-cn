@@ -83,24 +83,24 @@ getChallenges()
 
 ### 工作流程
 
- 1. 在本项目导航栏【Issue】中选择 [**Translation request**](https://github.com/FreeCodeCampChina/curriculum/issues/new?template=translation-request.md) 模板，并填写你想要翻译的章节（以独立 JSON 文件为最小单位）。
+1. 在本项目导航栏【Issue】中选择 [**Translation request**](https://github.com/FreeCodeCampChina/curriculum/issues/new?template=translation-request.md) 模板，并填写你想要翻译的章节（以独立 JSON 文件为最小单位）。
 
- 2. 若你想翻译多节课，请用 [GFM 的 Task lists 语法](https://guides.github.com/features/mastering-markdown/)列出这些课程，并在翻译完每节课后在该条目前的复选框打勾，以此来跟踪自己的翻译进度。
+2. 若你想翻译多节课，请用 [GFM 的 Task lists 语法](https://guides.github.com/features/mastering-markdown/)列出这些课程，并在翻译完每节课后在该条目前的复选框打勾，以此来跟踪自己的翻译进度。
  
- 3. 翻译完成后请提交 Pull request，并选择 [@S1ngS1ng](https://github.com/S1ngS1ng) 与 [@wudifeixue](https://github.com/wudifeixue) 两位同学进行评审。
+3. 翻译完成后请提交 Pull request，并选择 [@S1ngS1ng](https://github.com/S1ngS1ng) 与 [@wudifeixue](https://github.com/wudifeixue) 两位同学进行评审。
 
-**【注意】** 翻译文件不要在源文件上改动，请创建新文件并以 `-cn` 作为文件名后缀。
+**【注意】** 翻译文件不要在源文件上改动，请创建新文件并以 `-cn.json` 作为文件名后缀。
 
 ### 行文规范
 
- 1. 最高原则：信、达、雅（技术专业内容要用语规范，网络用语不要出现）
+1. 最高原则：信、达、雅（技术专业内容要用语规范，网络用语不要出现）
  
- 2. 专用单词：拼写正确（参考对应技术的官网、维基百科词条）、注意大小写
+2. 专用单词：拼写正确（参考对应技术的官网、维基百科词条）、注意大小写
  
- 3. 标点符号
-  - 中英文各自选择对应的标点符号，中英文混合句视同中文语句（如括号内中英文混用，应用中文括号）
-  - 中文标点、文字间无需空格
-  - 英文单标点后空一格，成对标点左标左空格、右标右空格
+3. 标点符号
+    - 中英文各自选择对应的标点符号，中英文混合句视同中文语句（如括号内中英文混用，应用中文括号）
+    - 中文标点、文字间无需空格
+    - 英文单标点后空一格，成对标点左标左空格、右标右空格
 
- 4. 中英文间须空格隔开（参考[盘古](https://github.com/vinta/pangu.js)）
+4. 全角与半角字符（如中文与英文，及中文与数字）间须用空格隔开（参考[盘古](https://github.com/vinta/pangu.js)）
 
