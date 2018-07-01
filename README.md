@@ -1,32 +1,28 @@
 ![freeCodeCamp Social Banner](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)
 
-# freeCodeCamp Curriculum
+# freeCodeCamp China Curriculum
 
 [![Build Status](https://travis-ci.org/freeCodeCamp/curriculum.svg?branch=master)](https://travis-ci.org/freeCodeCamp/curriculum) [![npm (scoped)](https://img.shields.io/npm/v/@freecodecamp/curriculum.svg)](https://www.npmjs.com/package/@freecodecamp/curriculum)
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 
-> This package contains the "challenge" files used in the freeCodeCamp Curriculum.
+> 本项目包含 freeCodeCamp 中文官网的所有挑战题目。
 
-## Installation
+## 安装 (未发布)
 
-```sh
-npm i @freecodecamp/curriculum
+~~npm i @freecodecamp/curriculum~~
 # or
-yarn add @freecodecamp/curriculum
-```
+~~yarn add @freecodecamp/curriculum~~
 
-## Usage
+## 使用
 
-```js
-import { getChallenges } from '@freecodecamp/curriculum';
+~~import { getChallenges } from '@freecodecamp/curriculum';~~
 
-// fetch an array of blocks
-// i.e. basic CSS, functional programming, etc.
-getChallenges()
-```
+~~// fetch an array of blocks~~
+~~// i.e. basic CSS, functional programming, etc.~~
+~~getChallenges()~~
 
-### `block` Structure
+### 挑战类别数据结构
 
 ```js
 {
@@ -41,7 +37,7 @@ getChallenges()
 }
 ```
 
-### `challenge` Structure
+### 挑战题目数据结构
 
 ```js
 {
