@@ -79,7 +79,7 @@
 
 ### 工作流程
 
-1. 在本项目导航栏【Issue】中选择 [**Translation request**](https://github.com/FreeCodeCampChina/curriculum/issues/new?template=translation-request.md) 模板，并填写你想要翻译的章节（以独立 JSON 文件为最小单位）。
+1. 在本项目导航栏【Issue】中选择 [**Translation request**](https://github.com/FreeCodeCampChina/curriculum-cn/issues/new?template=translation-request.md) 模板，并填写你想要翻译的章节（以独立 JSON 文件为最小单位）。
 
 2. 若你想翻译多节课，请用 [GFM 的 Task lists 语法](https://guides.github.com/features/mastering-markdown/)列出这些课程，并在翻译完每节课后在该条目前的复选框打勾，以此来跟踪自己的翻译进度。
  
